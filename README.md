@@ -8,7 +8,7 @@ Ranger — a synergistic optimizer combining RAdam (Rectified Adam) and Lookahea
 
 ## Examples
 
-_Usage and notebook to test with comming shortly._
+_Usage and notebook to test with coming shortly._
 
 ## Software Requirements
 
